@@ -1,3 +1,6 @@
+/*
+ * Program print usng printf function
+ */
 #include <stdio.h>
 int main(void)
 {
