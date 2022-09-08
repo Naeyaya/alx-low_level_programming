@@ -1,7 +1,7 @@
 /*
  *Program prints usng printf function
  */
-#include <stdio.h> 
+#include <stdio.h>
 int main(void)
 {
 
