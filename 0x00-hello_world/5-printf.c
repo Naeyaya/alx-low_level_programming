@@ -1,6 +1,5 @@
 /*
- *Program prints usng 
- *printf function
+ *Program prints usng printf function
  */
 #include <stdio.h>
 /*Program prints                                                                                                                        
