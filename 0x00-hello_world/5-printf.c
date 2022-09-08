@@ -2,11 +2,10 @@
  *Program prints usng printf function
  */
 #include <stdio.h>
-/**                                                                                                                                     
- *  * main - Prints "Programming is like building a multilingual                                                                           
- *   * puzzle, followed by a new line.                                                                                                      
- *    * Return: Always 0.                                                                                                                    
- *     */    
+/*main - Prints "with proper grammar, but the outcome is a piece of art,
+ * , followed by a new line.
+ * Return: Always 0.
+ */    
 int main(void)
 {
 
