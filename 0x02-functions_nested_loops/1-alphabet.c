@@ -1,7 +1,6 @@
 #include"main.h"
 /*
- *  print_alphabet - 
- *
+ *  print_alphabet -
  *  Return: ALways 0
  */
 void print_alphabet(void)
@@ -12,9 +11,9 @@ void print_alphabet(void)
 	while (i <= 9)
 	{
 		for (c = 'a'; c <= 'z'; c++)
-			{
-				_putchar(c);
-			}
+		{
+			_putchar(c);
+		}
 		_putchar('\n');
 		i++;
 	}
