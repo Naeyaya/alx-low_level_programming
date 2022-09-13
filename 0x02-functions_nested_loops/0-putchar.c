@@ -2,7 +2,7 @@
 /*
  * Prints _putchar
  */
-int main()
+int main(void)
 {
 /*
  * Prints _putchar
