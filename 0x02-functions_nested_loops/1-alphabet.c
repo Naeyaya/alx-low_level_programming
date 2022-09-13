@@ -1,6 +1,7 @@
 #include"main.h"
 /*
- *  print_alphabet - prints small letter alphabet
+ *  print_alphabet - entry point
+ *  Description - prints small letter alphabets
  *  Return: ALways 0
  */
 void print_alphabet(void)
